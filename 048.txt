@@ -1,0 +1,3 @@
+name:minpuri sathya reddy
+uid:111722043048
+dept: bsc cloud computing
